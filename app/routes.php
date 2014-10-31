@@ -13,5 +13,10 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('landing.home');
+});
+
+Route::get('/register', function()
+{
+	return View::make('landing.register');
 });

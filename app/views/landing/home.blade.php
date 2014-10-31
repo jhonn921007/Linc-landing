@@ -50,13 +50,13 @@
 ">
 
     <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-4 col-xs-offset-2" style="margin-top: 15%;">
-		<img  src="assets/img/logo.png" alt="Logo Linc" height="100px" /></a>
+    <img  src="assets/img/logo.png" alt="Logo Linc" height="100px" /></a>
 
-		<form class="user-form" action="/" method="post">
-			<h2 class="user" style="color: white!important;">Platform for<span class="semi-bold"> patners</span></h2>
-			<input type="text" placeholder="Email">
-			<button type="submit" class="btn btn-primary ">Suscríbete</button>
-		</form>
+    <form class="user-form" action="index.html" method="post">
+      <h2 class="user" style="color: white!important;">Platform for<span class="semi-bold"> patners</span></h2>
+      <input type="text" placeholder="Email">
+      <button type="submit" class="btn btn-primary ">Suscríbete</button>
+    </form>
     </div>
 
 
